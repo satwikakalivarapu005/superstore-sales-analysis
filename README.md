@@ -120,7 +120,7 @@ Or open directly in [Google Colab](https://colab.research.google.com/)
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [[your-linkedin-url](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/satwika-kalivarapu-2680142ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: (https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/satwika-kalivarapu-2680142ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: https://github.com/satwikakalivarapu005
 
 ---
