@@ -55,25 +55,6 @@ superstore-sales-analysis/
 
 ---
 
-## 📊 Key Visualizations
-
-### 1. Monthly Sales Trend
-Monthly Sales.png
-
-### 2. Sales by Category
-![Category Sales](charts/category_sales.png)
-
-### 3. Profit by Sub-Category
-![Sub-Category Profit](charts/subcategory_profit.png)
-
-### 4. Sales by Region
-![Region Sales](charts/region_sales.png)
-
-### 5. Top 10 Products by Revenue
-![Top Products](charts/top_products.png)
-
----
-
 ## 💡 Key Insights & Recommendations
 
 ### 📈 Overall Performance
