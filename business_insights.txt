@@ -1,0 +1,24 @@
+
+BUSINESS SALES PERFORMANCE ANALYSIS
+=====================================
+Dataset: Superstore Sales | Tool: Python (pandas, matplotlib)
+
+KEY INSIGHTS & RECOMMENDATIONS
+--------------------------------
+1. OVERALL: Total Sales = $2,297,200 | Profit = $286,397 | Margin = 12.5%
+   → Profitability can be improved despite strong revenue.
+
+2. CATEGORY: Technology leads in revenue.
+   → Prioritize marketing and stock for Technology category.
+
+3. PROFIT WARNING: Tables & Bookcases have NEGATIVE profit.
+   → Reprice or discontinue these sub-categories immediately.
+
+4. REGION: West is strongest. South is weakest.
+   → Investigate South region performance and cut losses or boost promotions.
+
+5. TREND: Sales peak in Nov-Dec (Q4 holiday season).
+   → Plan inventory and campaigns ahead of Q4 every year.
+
+6. TOP PRODUCTS: Top 10 products drive majority of revenue.
+   → Protect these products with consistent stock and promotions.
