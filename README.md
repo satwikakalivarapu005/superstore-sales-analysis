@@ -91,7 +91,7 @@ superstore-sales-analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/superstore-sales-analysis.git
+git clone https://github.com/satwikakalivarapu005/superstore-sales-analysis.git
 ```
 
 2. Install required libraries:
