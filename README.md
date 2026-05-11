@@ -58,7 +58,7 @@ superstore-sales-analysis/
 ## 📊 Key Visualizations
 
 ### 1. Monthly Sales Trend
-![Monthly Sales](charts/monthly_sales.png)
+Monthly Sales.png
 
 ### 2. Sales by Category
 ![Category Sales](charts/category_sales.png)
